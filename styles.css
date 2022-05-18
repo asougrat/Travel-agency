@@ -25,9 +25,9 @@ body
     margin: 0 auto;
     padding: 0 10px;
 }
-.orange
+.red
 {
-    color: #ff7a00;
+    color: red;
 }
 a
 {
@@ -37,6 +37,13 @@ a
 header
 {
     height:120px;
+}
+.logo
+{
+    margin-top: 20px;
+    float: left;
+    height: 77px;
+    width: fit-content;
 }
 h1
 {
@@ -65,7 +72,7 @@ header nav ul li a
 }
 #main-image
 {
-    height: 580px;
+    height: 680px;
     background: url(images/main.jpg)center;
 }
 #main-image h2
@@ -75,7 +82,7 @@ header nav ul li a
     padding: 150px 0 40px 0;
     margin-bottom: 20px;
 }
-.button-1
+.bk-btn
 {
     display: block;
     width: 120px;
